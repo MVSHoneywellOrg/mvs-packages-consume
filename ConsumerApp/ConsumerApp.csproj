@@ -5,6 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MyLibrary" Version="1.0.0" />
+    <PackageReference Include="MVSMyLibrary" Version="1.0.1" />
   </ItemGroup>
 </Project>
