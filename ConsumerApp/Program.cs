@@ -1,5 +1,5 @@
 using System;
-using MyLibrary;
+using MVSMyLibrary;
 
 class Program
 {
